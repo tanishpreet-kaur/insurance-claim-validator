@@ -1,0 +1,5 @@
+{
+  "name": "AI Insurance Claim Validator",
+  "description": "An AI-powered application to validate insurance claims by analyzing uploaded documents for inconsistencies, fraud patterns, and policy violations.",
+  "requestFramePermissions": []
+}
